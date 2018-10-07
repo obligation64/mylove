@@ -1,0 +1,28 @@
+h1{
+    font-size: 30px;
+    color: skyblue;
+    text-align: center;
+    font-family: 华文仿宋;
+}
+#p2{
+    text-align: center;
+    color: red;
+    font-size: 20px;
+}
+#p1{
+    font-size: 20px;
+    color: darkblue;
+    text-align: center;
+    font-family: 幼圆 ;
+}
+div{
+    margin: auto;
+    top: 200px;
+    text-align: center;
+    vertical-align: middle;
+}
+a{
+    color: deepskyblue;
+    text-decoration: none;
+    font-size: 20px;
+}
